@@ -37,7 +37,9 @@ INSTALLED_APPS = [
     'django.contrib.sessions',
     'django.contrib.messages',
     'django.contrib.staticfiles',
-    'truecaller_api'
+    'rest_framework',
+    'phonenumber_field',
+    'truecaller_api',
 ]
 
 MIDDLEWARE = [
@@ -123,3 +125,7 @@ USE_TZ = True
 # https://docs.djangoproject.com/en/3.1/howto/static-files/
 
 STATIC_URL = '/static/'
+
+# PHONE NUMBER SETTINGS
+
+PHONENUMBER_DEFAULT_REGION = 'IN'
