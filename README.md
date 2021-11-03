@@ -2,9 +2,8 @@
 
 #hacktoberfest oct-2021
 This repo is for hacktoberfest 2021.
-
-
-Truecaller acts on a give and take scenario... You want those unknown numbers then you have to part with your phone book contacts.. Now apparently everyone who has installed the app has surrendered his phone book. 
+  
+Truecaller is an app which can provide when given. If you want to know the contact calling you, the person with whom the contact is saved, should share it, thereby surrendering his contacts for the "benefit" of others.
 
 The data is crowd-sourced from the millions of users who have downloaded the truecaller app on their smart phones. As part of the end user agreement, the truecaller app asks the user to allow access to the user's address book/contacts on the smart phone. 
 
